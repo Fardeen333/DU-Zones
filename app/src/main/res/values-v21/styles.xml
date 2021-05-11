@@ -1,0 +1,39 @@
+<resources>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">#01227A</item>
+        <item name="android:fontFamily">@font/comr</item>
+    </style>
+
+    <style name="AppTheme.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">#282727</item>
+        <item name="colorPrimary">#232323</item>
+        <item name="colorPrimaryDark">#212121</item>
+        <item name="colorAccent">#FFFFFF</item>
+        <item name="android:fontFamily">@font/comr</item>
+    </style>
+
+
+
+    <style name="AppTheme.NoActionBar.two">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">#63098A</item>
+        <item name="android:fontFamily">@font/comr</item>
+        <item name="android:textColor">#ffffff</item>
+
+    </style>
+
+    <style name="CR">
+        <item name="android:fontFamily">@font/comr</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+</resources>
+
+
+
